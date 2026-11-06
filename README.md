@@ -31,4 +31,5 @@ Once they grab it, it will show a text prompt attached to the part - explaining 
 The player will follow the PNG guides to slot the parts in one by one using AMD PC PARTS until a computer is fully built
 Then once its powered on -> WIN! congratulations you are now viable to build COMPUTERSSSS!
 
-THE END
+The main goal is to teach people how to safely build a computer by hand with limited guides
+Certain warnings will show up stating the dangers of static electricity and how to be gentle with parts.
